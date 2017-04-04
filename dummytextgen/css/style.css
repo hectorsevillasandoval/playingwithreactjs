@@ -1,0 +1,21 @@
+body{
+  font-family: Arial;
+  line-height: 1.5em;
+}
+
+.container{
+  width:500px;
+  margin: 20px auto;
+  border:#333 4px solid;
+  padding:10px;
+}
+
+.output{
+  height: 500px;
+  overflow: scroll;
+  padding:5px;
+}
+
+form div{
+  margin: 10px 0;
+}
